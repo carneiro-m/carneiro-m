@@ -1,25 +1,32 @@
 ### Hi there 👋
 
-
 I am a scientist interested in unraveling the complexity of biological systems and leveraging this understanding to drive innovation in healthcare.
 
 ### My learning path 
 🧬 I have studied Biology with an emphasis on Genetics at the Federal University of Rio de Janeiro from 2009 - 2013 🇧🇷  
-🧫🦠 I then pursued a Master's in Oncology at the Brazilian National Cancer Institute from 2013 - 2015 🇧🇷  
+🧫🐭 I then pursued a Master's in Oncology at the Brazilian National Cancer Institute from 2013 - 2015 🇧🇷  
 💻📊 And a PhD in Molecular Biology with an emphasis in Systems Biology at the University of Montreal from 2017 - 2023 🇨🇦  
 
 
 ### How did I start in science?
 My research experience started in my first year at the Federal University of Rio de Janeiro.  
-I was curious about the regulation of gene expression, and to explore this topic, I first joined the lab of Dr. Manoel Luis Costa to work with zebrafish studying myogenesis 🐠🔬💪  
-I then joined Dr. Carlos Soares' lab to study the symbiotic bacteria *Teredinibacter turnerae*. These bacteria produce bioactive compounds, and for my project, I genetically engineered them to increase the production of bioactive compounds and tested their antimicrobial activity.   
 
-In 2012, I was introduced to immuno-oncology, a field that wasn't very popular at the time. I joined Dr. Martin Bonamino's lab to work on a project to engineer CAR-T cells to treat hematological cancers. 👩🏻‍🔬🧬🧫🦠🐭
+I was curious about the regulation of gene expression, and to explore this topic, I first joined the lab of Dr. Manoel Luis Costa to work with zebrafish studying myogenesis 🐠🔬💪    
 
-The challenges in using CAR-T cells to treat solid tumors motivated me to understand the tumor microenvironment. I then performed my doctorate project at the University of Montreal Hospital Research Center (CRCHUM). 💻📊
+I then joined Dr. Carlos Soares' lab to study the symbiotic bacteria *Teredinibacter turnerae*. They produce bioactive compounds, and for my project, I genetically engineered them to increase the production of bioactive compounds and tested their antimicrobial activity 🧫🦠
 
-### My journey in computational biology
- 
+### My journey in immuno-oncology
+In 2012, I was introduced to immuno-oncology at Dr. Martin Bonamino's lab, a field that wasn't very popular at the time. My project aimed to genetically engineer CAR-T cells to optimize their antitumor response in hematological cancers. 👩🏻‍🔬🧬🧫🦠🐭
+
+The challenges in using CAR-T cells to treat solid tumors motivated me to understand the tumor microenvironment to better design immunotherapy strategies. I then performed my doctorate project at the University of Montreal Hospital Research Center (CRCHUM) using single-cell RNA sequencing to reveal the heterogeneity of the tumor immune microenvironment 💻📊  
+
+### Computational biology for translational research and drug discovery
+After studying the tumor microenvironment using the high-resolution technology of single-cell RNAseq, I developed a passion for data science and the myriad of possibilities multidimensional data can offer to healthcare.  
+
+Since then, I have worked on multiple projects analyzing and interpreting patient transcriptomic data in the context of immunotherapy.   
+
+To continue contributing to the advancement of precision medicine, I am currently learning new methods to integrate and explore large datasets (I am interested in AI/machine learning). 📊👩🏻‍💻🤖
+
 <!--
 **carneiro-m/carneiro-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
