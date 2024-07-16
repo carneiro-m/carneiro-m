@@ -4,9 +4,9 @@
 I am a scientist interested in unraveling the complexity of biological systems and leveraging this understanding to drive innovation in healthcare.
 
 ### My learning path 
-🧬 I have studied **Biology with an emphasis on Genetics** at the Federal University of Rio de Janeiro from 2009 - 2013 🇧🇷
-🧫🦠 I then pursued a **Master's in Oncology** at the Brazilian National Cancer Institute from 2013 - 2015 🇧🇷
-💻📊 And a PhD in **Molecular Biology with an emphasis in Systems Biology** at the University of Montreal from 2017 - 2023 🇨🇦
+🧬 I have studied **Biology with an emphasis on Genetics** at the Federal University of Rio de Janeiro from 2009 - 2013 🇧🇷  
+🧫🦠 I then pursued a **Master's in Oncology** at the Brazilian National Cancer Institute from 2013 - 2015 🇧🇷  
+💻📊 And a PhD in **Molecular Biology with an emphasis in Systems Biology** at the University of Montreal from 2017 - 2023 🇨🇦  
 
 
 ### How did I start in science?
