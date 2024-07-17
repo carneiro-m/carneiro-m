@@ -20,10 +20,13 @@ In 2012, I was introduced to immuno-oncology at Dr. Martin Bonamino's lab, a fie
 
 The challenges in using CAR-T cells to treat solid tumors motivated me to understand the tumor microenvironment to better design immunotherapy strategies. I then performed my doctorate project at the University of Montreal Hospital Research Center (CRCHUM) using single-cell RNA sequencing to reveal the heterogeneity of the tumor immune microenvironment 💻📊  
 
+
 ### Computational biology for translational research and drug discovery
 After studying the tumor microenvironment using the high-resolution technology of single-cell RNAseq, I developed a passion for data science and the myriad of possibilities multidimensional data can offer to healthcare.  
 
 Since then, I have worked on multiple projects analyzing and interpreting patient transcriptomic data in the context of immunotherapy.   
+
+During my postdoc in Dr. John Stagg and Dr. Simon Turcotte's labs, I specialized in analyzing multi-omics patient data. Collaborating with hospitals and research centers in Canada and Europe, our projects aimed to identify predictive biomarkers for new immunotherapy strategies and study the immune microenvironment in various cancer types.  
 
 To continue contributing to the advancement of precision medicine, I am currently learning new methods to integrate and explore large datasets (I am interested in AI/machine learning). 📊👩🏻‍💻🤖
 
